@@ -1,3 +1,21 @@
 body {
   background-color: antiquewhite;
 }
+
+.car-wrapper {
+  display: flex;
+  height: 45px;
+  border-bottom: 1px solid;
+}
+li {
+  list-style: none;
+  padding-top: 30px
+}
+
+.general-buttons {
+  margin-bottom: 10px;
+}
+
+.control-panel {
+  margin-right: 20px;
+}
